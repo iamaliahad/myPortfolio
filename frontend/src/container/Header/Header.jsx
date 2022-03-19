@@ -28,7 +28,7 @@ const Header = () => (
         </div>
         <div className="button">
           <a href="/aliahad.pdf" class="btn">
-            My Resume
+            Resume
           </a>
           <a href="#contact" class="btn">
             Hire me
