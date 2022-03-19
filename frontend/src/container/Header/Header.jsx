@@ -27,10 +27,10 @@ const Header = () => (
           <p className="p-text">Full Stack Developer</p>
         </div>
         <div className="button">
-          <a href="#" class="btn">
+          <a href="/aliahad.pdf" class="btn">
             My Resume
           </a>
-          <a href="#" class="btn">
+          <a href="#contact" class="btn">
             WhatsApp me
           </a>
         </div>

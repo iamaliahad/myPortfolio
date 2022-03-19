@@ -41,7 +41,7 @@ const Work = () => {
       <h2 className="head-text">A career is a portfolio of projects that teach me <span className='head-text__color-g'> new skills</span>, gain <span className='head-text__color-p'> new expertise</span>, develop <span className='head-text__color-y'>new capabilities</span> , grow colleague set, and constantly reinvent me as a <span className='head-text__color-r'> brand </span>.</h2>
 
       <div className="app__work-filter">
-        {['UI/UX', 'Web App', 'Mobile App', 'React JS', 'All'].map((item, index) => (
+        {['Full-Stack Web Application', 'Only Frontend', 'AI', 'Others', 'All'].map((item, index) => (
           <div
             key={index}
             onClick={() => handleWorkFilter(item)}
