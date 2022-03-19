@@ -25,7 +25,8 @@ const Skills = () => {
 
   return (
     <>
-      <h2 className="head-text">Skills & Experiences</h2>
+      <h2 className="head-text">My <span className='head-text__color-g'> brain</span> gets <span className='head-text__color-y'>
+      stronger</span> every day because I exercise it. The stronger it gets, <span className='head-text__color-r'> the more money I can make 😊</span>.</h2>
 
       <div className="app__skills-container">
         <motion.div className="app__skills-list">

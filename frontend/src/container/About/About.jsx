@@ -18,7 +18,7 @@ const About = () => {
 
   return (
     <>
-      <h2 className="head-text"> <span className='head-text__color-r'>Full-stack Developer</span> and <span className='head-text__color-y'> SEO expert!</span> Hard-working web developer with a flair for creating <span className='head-text__color-g'> elegant solutions</span> in the least amount of time. 🚀</h2>
+      <h2 className="head-text"> <span className='head-text__color-r'>Full-stack Developer</span> and <span className='head-text__color-y'> SEO expert!</span> Hard-working web developer with a flair for creating <span className='head-text__color-g'> elegant solutions</span> in the least amount of time. 💪</h2>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (
