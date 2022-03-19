@@ -31,7 +31,7 @@ const Header = () => (
             My Resume
           </a>
           <a href="#contact" class="btn">
-            WhatsApp me
+            Hire me
           </a>
         </div>
         
